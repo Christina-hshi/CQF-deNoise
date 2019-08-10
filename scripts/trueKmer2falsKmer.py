@@ -1,11 +1,11 @@
-/*
- * ============================================================================
- *  
- *        Authors: Christina SHI <hshi@cse.cuhk.edu.hk>
- *                 Kevin Yip <kevinyip@cse.cuhk.edu.hk>
- *
- * ============================================================================
- */
+#
+# ============================================================================
+#  
+#        Authors: Christina SHI <hshi@cse.cuhk.edu.hk>
+#                 Kevin Yip <kevinyip@cse.cuhk.edu.hk>
+#
+# ============================================================================
+#
 
 #Calculate ratio of true k-mers to false k-mers given sequencing length and base error rate
 
