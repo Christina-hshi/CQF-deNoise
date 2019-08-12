@@ -1,5 +1,5 @@
 # CQF-deNoise
-CQF-deNoise enables fast k-mer counting with memory usage unaffected by sequencing errors.
+CQF-deNoise enables fast k-mer counting with memory usage nearly unaffected by sequencing errors.
 
 Required libraries
 -------
