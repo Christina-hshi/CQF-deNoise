@@ -14,6 +14,7 @@ Build
 
 ```bash
  $ mkdir release
+ $ cd release
  $ cmake ..
  $ make all
 ```
