@@ -32,4 +32,5 @@ set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${PROJECT_BINARY_DIR})
 add_subdirectory(base)
 add_subdirectory(core)
 add_subdirectory(src)
+#add_subdirectory(test)
 
